@@ -6,7 +6,8 @@
  * Return: half of input
  */
 void puts_half(char *str)
-{	
+{
+
 	int n, m, len;
 
 	len = 0;
